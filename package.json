@@ -6,6 +6,7 @@
     "type": "git",
     "url": "https://github.com/CXPhoenix/slidev-theme-isip.hs.git"
   },
+  "packageManager": "pnpm@10.5.2",
   "keywords": [
     "slidev-theme",
     "slidev",
