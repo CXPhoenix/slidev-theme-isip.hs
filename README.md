@@ -1,6 +1,6 @@
-# slidev-theme-isip-slidev-theme
+# slidev-theme-isip.hs
 
-[![NPM version](https://img.shields.io/npm/v/slidev-theme-isip-slidev-theme?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-isip-slidev-theme)
+[![NPM version](https://img.shields.io/npm/v/slidev-theme-isip-slidev-theme?color=3AB9D4&label=)](https://www.npmjs.com/package/@cxphoenix/slidev-theme-isip.hs)
 
 A isip.hs slide theme for [Slidev](https://github.com/slidevjs/slidev).
 
