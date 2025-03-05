@@ -16,11 +16,11 @@ layout: section
 
 ::title::
 
-# Hello World
+# Section Title here...
 
 ::subtitle::
 
-## Hello There
+## Section Subtitle here...
 
 ---
 
@@ -43,18 +43,6 @@ Presentation slides for developers
     * there
 
 ---
-
-::title::
-
-# Hello World
-
-::default::
-
-## This is a h2
-
-- ### there is h3
-
----
 layout: image
 ---
 
@@ -64,4 +52,4 @@ layout: image
 
 ::default::
 
-![](/assets/section_img.svg) {.h-[95%]}
+![example img](/assets/section_img.svg)

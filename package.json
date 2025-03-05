@@ -1,6 +1,6 @@
 {
   "name": "@cxphoenix/slidev-theme-isip.hs",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "type": "module",
   "repository": {
     "type": "git",
@@ -26,7 +26,8 @@
     "@slidev/types": "^51.3.0"
   },
   "devDependencies": {
-    "@slidev/cli": "^51.3.0"
+    "@slidev/cli": "^51.3.0",
+    "playwright-chromium": "^1.50.1"
   },
   "//": "Learn more: https://sli.dev/guide/write-theme.html",
   "slidev": {
