@@ -7,6 +7,7 @@
     "url": "https://github.com/CXPhoenix/slidev-theme-isip.hs.git"
   },
   "packageManager": "pnpm@10.5.2",
+  "homepage": "https://github.com/CXPhoenix/slidev-theme-isip.hs#readme",
   "keywords": [
     "slidev-theme",
     "slidev",
