@@ -26,6 +26,14 @@ jobs:
 
       - name: Build 🔨
         run: pnpm build
+    
+        # 從 GitHub Release 獲取版本號並更新 package.json
+      - name: Update version from GitHub Release
+        run: |
+            VERSION=${GITHUB_REF#refs/tags/v}
+            # 使用 jq 更新 package.json 中的版本號
+            jq ".version = \"$VERSION\"" package.json > temp.json && mv temp.json package.json
+            echo "Publishing version: $VERSION"
 
       - name: Publish to NPM 📦
         run: pnpm publish --no-git-checks --access public
