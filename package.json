@@ -2,6 +2,10 @@
   "name": "@cxphoenix/slidev-theme-isip.hs",
   "version": "0.1.0",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CXPhoenix/slidev-theme-isip.hs.git"
+  },
   "keywords": [
     "slidev-theme",
     "slidev",
