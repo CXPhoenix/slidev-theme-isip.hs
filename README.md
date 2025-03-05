@@ -1,6 +1,8 @@
 # slidev-theme-isip.hs
 
-[![NPM version](https://img.shields.io/npm/v/%40cxphoenix/slidev-theme-isip.hs?color=3AB9D4&label=)](https://www.npmjs.com/package/@cxphoenix/slidev-theme-isip.hs/v/latest)
+[![NPM version](https://img.shields.io/npm/v/%40cxphoenix/slidev-theme-isip.hs?color=3AB9D4&label=pnpm)](https://www.npmjs.com/package/@cxphoenix/slidev-theme-isip.hs/v/latest)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?&logo=vite&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?&logo=vuedotjs&logoColor=%234FC08D)
 
 A isip.hs slide theme for [Slidev](https://github.com/slidevjs/slidev).
 
