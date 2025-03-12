@@ -50,3 +50,7 @@ This theme provides the following components:
 - Edit the `example.md` and style to see the changes
 - `pnpm run export` to generate the preview PDF
 - `pnpm run screenshot` to generate the preview PNG
+
+## Usage Instruction
+
+see [Usage.md](./Usage.md)
