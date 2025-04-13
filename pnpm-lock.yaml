@@ -11,6 +11,9 @@ importers:
       '@slidev/types':
         specifier: ^51.3.0
         version: 51.3.0(@nuxt/kit@3.15.4)(@vue/compiler-sfc@3.5.13)(markdown-it-async@2.0.0)(postcss@8.5.3)(typescript@5.8.2)(vite@6.2.0(@types/node@18.19.79)(jiti@2.4.2)(yaml@2.7.0))
+      prettier:
+        specifier: ^3.5.3
+        version: 3.5.3
     devDependencies:
       '@slidev/cli':
         specifier: ^51.3.0
